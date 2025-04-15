@@ -6,9 +6,9 @@ Download the following files \
 
 [CPP14Lexer.g4](https://github.com/antlr/grammars-v4/blob/master/cpp/CPP14Lexer.g4)
 
-[CPP14ParserBase.py](https://github.com/antlr/grammars-v4/blob/master/cpp/Python3/ CPP14ParserBase.py)
+[CPP14ParserBase.py](https://github.com/antlr/grammars-v4/blob/master/cpp/Python3/CPP14ParserBase.py)
 
-[transformGrammer.py](https://github.com/antlr/grammars-v4/blob/master/cpp/Python3/CPP14ParserBase.py)
+[transformGrammer.py](https://github.com/antlr/grammars-v4/blob/master/cpp/Python3/transformGrammer.py)
 
 # Install antlr4 tools
 
