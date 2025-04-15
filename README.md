@@ -1,6 +1,6 @@
 # Grammar installation
 
-Download the following files \
+Download the following files
 
 [CPP14Parser.g4](https://github.com/antlr/grammars-v4/blob/master/cpp/CPP14Parser.g4)
 
@@ -33,4 +33,4 @@ It apparantly transforms Grammer files to fit target python in this case python 
 - Step 2 \*
   antlr4 -Dlanguage=Python3 CPP14Parser.g4 -visitor -o generated
 
-Files will be generated in the generated file
+Files will be generated in the "generated" directory
